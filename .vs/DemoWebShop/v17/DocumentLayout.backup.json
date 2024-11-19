@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\DemoViewWebSite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B6E323F-825A-4057-9309-FF2D32EB99D7}|AppView\\AppView.csproj|e:\\demoviewwebsite\\appview\\data\\demowebshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6E323F-825A-4057-9309-FF2D32EB99D7}|AppView\\AppView.csproj|solutionrelative:appview\\data\\demowebshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B6E323F-825A-4057-9309-FF2D32EB99D7}|AppView\\AppView.csproj|e:\\demoviewwebsite\\appview\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6E323F-825A-4057-9309-FF2D32EB99D7}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DemoWebShopContext.cs",
+              "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\Data\\DemoWebShopContext.cs",
+              "RelativeDocumentMoniker": "AppView\\Data\\DemoWebShopContext.cs",
+              "ToolTip": "E:\\DemoViewWebSite\\AppView\\Data\\DemoWebShopContext.cs",
+              "RelativeToolTip": "AppView\\Data\\DemoWebShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:17:30.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "KhachHangController.cs",
               "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\Controllers\\KhachHangController.cs",
               "RelativeDocumentMoniker": "AppView\\Controllers\\KhachHangController.cs",
               "ToolTip": "E:\\DemoViewWebSite\\AppView\\Controllers\\KhachHangController.cs",
               "RelativeToolTip": "AppView\\Controllers\\KhachHangController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T07:22:37.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DataEncryptionExtensions.cs",
               "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\Helpers\\DataEncryptionExtensions.cs",
               "RelativeDocumentMoniker": "AppView\\Helpers\\DataEncryptionExtensions.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\Helpers\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "AppView\\Helpers\\AutoMapperProfile.cs",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DangKy.cshtml",
               "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\Views\\KhachHang\\DangKy.cshtml",
               "RelativeDocumentMoniker": "AppView\\Views\\KhachHang\\DangKy.cshtml",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "AppView\\ViewModels\\RegisterVM.cs",
@@ -110,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_LayoutMyCustom.cshtml",
               "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\Views\\Shared\\_LayoutMyCustom.cshtml",
               "RelativeDocumentMoniker": "AppView\\Views\\Shared\\_LayoutMyCustom.cshtml",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DangNhap.cshtml",
               "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\Views\\KhachHang\\DangNhap.cshtml",
               "RelativeDocumentMoniker": "AppView\\Views\\KhachHang\\DangNhap.cshtml",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "E:\\DemoViewWebSite\\AppView\\Views\\KhachHang\\Profile.cshtml",
               "RelativeDocumentMoniker": "AppView\\Views\\KhachHang\\Profile.cshtml",
